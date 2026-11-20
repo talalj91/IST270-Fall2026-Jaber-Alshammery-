@@ -55,3 +55,4 @@ For more detail, see [GitHub's guide to source control in a Codespace](https://d
 - If you forgot your pgAdmin password, rerun `bash .devcontainer/create-my-pgadmin-account.sh` and use its reset option.
 - To rebuild a workshop database, run `bash .devcontainer/reset-workshop.sh week12a` or `bash .devcontainer/reset-workshop.sh week12b`. The command asks before erasing changes in that database.
 - If pgAdmin opens as a blank page, open it in a normal browser tab from **Ports** and hard refresh. If its web files are missing, run `bash .devcontainer/setup.sh`, then reload the tab.
+git add.
